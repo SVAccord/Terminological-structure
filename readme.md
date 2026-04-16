@@ -13,4 +13,4 @@ The results of the analysis are available at the following links:
 
 4. Results in Russian, translated into English: [URL: https://lab57.shinyapps.io/arctic_ruen/].
 
-![img missed](images/Kravchuk-Ил2.jpg).
+![img missed](images/Kravchuk-Ил2.jpg)
