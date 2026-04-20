@@ -1,5 +1,6 @@
-paper: "Arctic Design: An Interdisciplinary Domain Design Experience" (Арктический дизайн: опыт междисциплинарного конструирования предметной области) 
+**Paper**: Кравчук С.Г., Коргин Н.А., Сергеев В.А. Арктический дизайн: опыт междисциплинарного конструирования предметной области // Журнал ВШЭ по искусству и дизайну. 2025. № 8 (4). С. 10-41. (Arctic Design: An Interdisciplinary Domain Design Experience)
 https://art-journal.hse.ru/issue-4-2025/Svetlana-Kravchuk-Nikolai-Korgin-Vladimir-Sergeev_Arkticheskij-dizajn-opyt-mezhdisciplinarnogo-konstruirovaniya-predmetnoj-oblasti
+
 
 The repository contains a section of code dedicated to data preparation for the terminology structure analysis project.
 
